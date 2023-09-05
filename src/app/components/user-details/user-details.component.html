@@ -1,3 +1,5 @@
-<div>
-    {{user.name}}
+<div *ngIf="user">
+  {{user.name}}
+  <br>
+  username: {{user.username}}
 </div>

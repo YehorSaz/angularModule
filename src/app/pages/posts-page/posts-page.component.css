@@ -1,0 +1,21 @@
+.post_page {
+  width: 100%;
+  display: flex;
+
+}
+.post_component {
+  width: 55%;
+  padding: 10px 20px 10px 10px;
+}
+.post_detail {
+  display: block;
+  padding: 10px;
+  position: fixed;
+  left: 60%;
+  margin-top: 20px;
+  border-radius: 5px;
+  height: 30%;
+  width: 35%;
+  box-shadow: 2px 2px 15px 5px #afacac;
+  background: #dbdbf1;
+}
